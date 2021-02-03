@@ -17,4 +17,5 @@ this is horizontal line
 - italik
 **bold**
 how to open hyper links [apssdc](http://www.apssdc.in)
-[ciet collage](http://www.chalapathiengg.ac.in) 
+[ciet collage](http://www.chalapathiengg.ac.in)
+![image](https://static3.depositphotos.com/1000819/134/i/950/depositphotos_1348907-stock-photo-fire-font-letter-n-from.jpg)
